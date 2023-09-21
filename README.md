@@ -23,9 +23,9 @@ Please install the software as indicated here:
 
 ## Lecture’s notes
 
-The lecture can be downloaded as a zip file: http://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.1.zip
+The lecture can be downloaded as a zip file: https://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.1.zip
 
 ## Additional information
 
-* [On-line demonstration of data assimilation](http://www.data-assimilation.net/Tools/AssimDemo/)
+* [On-line demonstration of data assimilation](https://www.data-assimilation.net/Tools/AssimDemo/)
 * [Animation of Kalman Filter and Ensemble Transform Kalman Filter](https://github.com/Alexander-Barth/DataAssim.jl)
