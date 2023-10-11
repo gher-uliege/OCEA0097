@@ -23,7 +23,7 @@ Please install the software as indicated here:
 
 ## Lecture’s notes
 
-The lecture can be downloaded as a zip file: https://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.1.zip
+The lecture can be downloaded as a zip file: https://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.2.zip
 
 ## Additional information
 
