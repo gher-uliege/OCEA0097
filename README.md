@@ -25,6 +25,11 @@ Please install the software as indicated here:
 
 The lecture can be downloaded as a zip file: https://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.2.zip
 
+
+## Data
+
+* [Surface currents from the Ligurian Sea](https://dox.ulg.ac.be/index.php/s/REiFTNAiN0UU10X/download)
+  
 ## Additional information
 
 * [On-line demonstration of data assimilation](https://www.data-assimilation.net/Tools/AssimDemo/)
