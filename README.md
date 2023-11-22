@@ -18,9 +18,6 @@ More information about the installation is available [here](https://github.com/g
 Please follow the video tutorials about julia available at: https://www.youtube.com/watch?v=76KL8aSz0Sg and https://julialang.org/learning/
 The software should be installed before the first lecture. 
 
-
-Please install the software as indicated here:
-
 ## Lecture’s notes
 
 The lecture can be downloaded as a zip file: https://data-assimilation.net/upload/OCEA0097/OCEA0097-1-revision-1.2.zip
