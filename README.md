@@ -2,11 +2,11 @@
 
 Data assimilation and inverse methods
 
-It is required that the students install Julia (https://julialang.org/downloads/). One should also install the packages PyPlot, NCDatasets and IJulia with the following commands to be executed inside the Julia command line interface:
+It is required that the students install Julia (https://julialang.org/downloads/). One should also install the packages PythonPlot, NCDatasets and IJulia with the following commands to be executed inside the Julia command line interface:
 
 ```julia
 using Pkg
-Pkg.add("PyPlot")
+Pkg.add("PythonPlot")
 Pkg.add("NCDatasets")
 Pkg.add("IJulia")
 using PyPlot
