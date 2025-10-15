@@ -31,3 +31,4 @@ The lecture can be downloaded as a zip file: https://data-assimilation.net/uploa
 
 * [On-line demonstration of data assimilation](https://www.data-assimilation.net/Tools/AssimDemo/)
 * [Animation of Kalman Filter and Ensemble Transform Kalman Filter](https://github.com/Alexander-Barth/DataAssim.jl)
+* Notebook server: https://notebook-gher.uliege.be/
